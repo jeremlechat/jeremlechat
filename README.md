@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 </br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=23&pause=1000&color=2C5AF7&FFFF8D&center=true&width=435&lines=Welcome+to+My+GitHub+Profile;I+am+a+student+at+ENSTA;I+want+to+work+on+DevOps+or+Security!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=23&pause=1000&color=2C5AF7&FFFF8D&center=true&width=435&lines=Welcome+to+My+GitHub+Profile;I+am+a+student+at+ENSTA;I+I+want+to+work+on+DevOps+or+Security!)](https://git.io/typing-svg)
 
 
 <h3>
@@ -28,23 +28,23 @@ Here are some ideas to get you started:
 
 
 
-📳 **Main developper** of [Foy'z Tech Revolution](https://github.com/FoyzTechRevolution/foyz_tech_revolution) an application for bar's customer 🍺 Developped in Dart <a href="https://dart.dev/" title="Dart"><img src="image-2.png" width="20"/></a> and Flutter
-<a href="https://flutter.dev/" title="Flutter"><img src="image-1.png" width="20"/></a> .
+📳 **Main developper** of [Foy'z Tech Revolution](https://github.com/FoyzTechRevolution/foyz_tech_revolution) an application for bar's customer 🍺 Developped in Dart <a href="https://dart.dev/" title="Dart"><img src="source/dart.png" width="20"/></a> and Flutter
+<a href="https://flutter.dev/" title="Flutter"><img src="source/flutter.png" width="20"/></a> .
 
 
 
-🦾 Former intern in [Interactive Robotics Laboratory](https://github.com/Yoshida-Lab-TUS), creating a general controller for robotic arms using Python <a href="https://www.python.org/" title="Python"><img src="image-6.png" width="20"/></a> , Unity <a href="https://unity.com/" title="Unity"><img src="image-5.png" width="20"/></a> and C++ <a href="https://www.python.org/" title="C++"><img src="image-7.png" width="20"/></a> .
+🦾 Former intern in [Interactive Robotics Laboratory](https://github.com/Yoshida-Lab-TUS), creating a general controller for robotic arms using Python <a href="https://www.python.org/" title="Python"><img src="source/python.png" width="20"/></a> , Unity <a href="https://unity.com/" title="Unity"><img src="source/unity.png" width="20"/></a> and C++ <a href="https://www.python.org/" title="C++"><img src="source/cpp.png" width="20"/></a> .
 
 
 </br>
 
 <p style="text-align: center;">
 
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=jeremlechat&include_orgs=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=jeremlechat&include_orgs=false)](https://github.com/jeremlechat/github-readme-stats)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=jeremlechat&include_orgs=true&show_icons=true)
+![Jeremlechat's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=jeremlechat&include_orgs=true&show_icons=true)
 
 
 </p>
