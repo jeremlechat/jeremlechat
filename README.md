@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 </br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=23&pause=1000&color=2C5AF7&FFFF8D&center=true&width=435&lines=Welcome+to+My+GitHub+Profile;I+am+a+student+at+ENSTA;I+I+want+to+work+on+DevOps+or+Security!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=850&size=25&pause=1000&color=2C5AF7&FFFF8D&center=true&width=550&lines=Welcome+to+My+GitHub+Profile;I+am+a+student+at+ENSTA;I+want+to+work+on+DevOps+or+Security+!)](https://git.io/typing-svg)
 
 
 <h3>
