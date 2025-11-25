@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 
 <h3>
-<code style="color : darkorange">A young engineer looking for a 5 monts intership starting in March 2026 !
-</code> 
+<p style="color : darkorange">A young engineer looking for a 5 monts intership starting in March 2026 !
+</p> 
 </h3>
 
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 </br>
 
-<p style="text-align: center;">
+<div style="text-align: center;">
 
 [![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=jeremlechat&include_orgs=false)](https://github.com/jeremlechat/github-readme-stats)
 
@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 ![Jeremlechat's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=jeremlechat&include_orgs=true&show_icons=true)
 
 
-</p>
+</div>
 
